@@ -7,7 +7,7 @@
     <title><?=$title ?></title>
 </head>
 <body>
-<header>This is header</header>
+<header>Это Шапка Сайта!</header>
 <main>
     <section class="menu">
         <a href="index.php?page=indexMain">Главная</a><br>
