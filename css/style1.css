@@ -1,0 +1,22 @@
+* {
+    font-family: Tahoma;
+    background-color: aliceblue;
+}
+header {
+
+}
+main {
+
+}
+.menu {
+    width: 15%;
+    float: left;
+}
+.content {
+    width: 82%;
+    float: right;
+    overflow: hidden;
+}
+footer {
+    clear: both;
+}
