@@ -19,6 +19,6 @@
         <?= $content; ?>
     </section>
 </main>
-<footer>This is footer</footer>
+<footer>Это Подвал!</footer>
 </body>
 </html>
