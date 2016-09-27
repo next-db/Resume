@@ -1,7 +1,7 @@
 <?php
 $title = 'Обратная связь';
 $content = '
-    <form method="post" enctype="multipart/form-data">
+    <form method="post" enctype="multipart/form-data" action="../scripts/massage.php">
     <table border="1" width=30%>
         <tr>
             <td colspan="2">
@@ -79,9 +79,7 @@ $content = '
             </td>
         </tr>
         <tr>
-            <td>
-    Your CV
-    </td>
+            <td>Your CV</td>
             <td>
                 <input type="file" name="cv" multiple/>
             </td>
